@@ -1,4 +1,4 @@
-var CACHE_NAME = 'apresenta-card-v02-01';
+var CACHE_NAME = 'apresenta-card-Luiz-Claudio-de-Magalhaes-v02-01';
 var urlsToCache = [
 	'/apresenta/',
 	'/apresenta/index.html',
