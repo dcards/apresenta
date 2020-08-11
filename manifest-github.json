@@ -1,0 +1,20 @@
+{
+  "short_name": "Apresenta Rio - App",
+  "name": "Apresenta Rio - Cartão Digital",
+  "icons": [
+    {
+      "src": "https://dcards.github.io/apresenta/favicon-foto/android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://dcards.github.io/apresenta/favicon-foto/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://dcards.github.io/apresenta/?utm_source=pwa",
+  "background_color": "#00396d",
+  "display": "standalone",
+  "theme_color": "#2c2c2c"
+}
